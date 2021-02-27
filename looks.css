@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+#apps {
+    background-color: aquamarine;
+}
+
+#games {
+    background-color: aqua;
+}
+
+img:hover {
+    transform: scale(0.9);
+}
+
+#chatbot {
+    background-color: mediumaquamarine;
+}
+
+iframe {
+    width: 390px;
+    height: 620px;
+}
+
+section {
+    width: 100%;
+    height: 800px;
+}
+
+#carousel{
+    height: 500px;
+    background-color: aquamarine;
+    margin-top: 50px;
+}
+
+#carousel img{
+    margin-top: 150px;
+}
